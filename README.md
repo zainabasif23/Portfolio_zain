@@ -1,4 +1,4 @@
-<h1 align="center">👩‍💻 Vidhi Rawat - Portfolio Website 💫</h1>
+<h1 align="center">👩‍💻 Zainab Asif - Portfolio Website 💫</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Live-green?style=for-the-badge" />
@@ -6,27 +6,26 @@
 </p>
 
 <p align="center">
-  🚀 Explore my projects, skills, experiences, and journey — all in one place!
+  🚀 This is my personal portfolio website customized from an open-source template. It showcases my skills, projects, and learning journey.
 </p>
 
 ---
 
 ## 💡 About Me
 
-Hey there! I'm **Vidhi Rawat**, a passionate:
+Hey there! I'm **Zainab Asif**, a passionate:
 
-- 📊 Data Science & Machine Learning Enthusiast  
+- 📊 Aspiring Software Developer  
 - 🌐 Full Stack Web Developer  
-- 🏆 Winner of Smart India Hackathon 2023  
 - 🎓 Computer Science student  
-- 💡 Dreaming to become a **Data Scientist / ML Engineer**
+- 💡 Dreaming to become a web developer/Software developer
 
 ---
 
 ## 🌟 Features
 
 - 📌 Smooth Scroll Navigation
-- 🧠 AI/ML Projects with Case Studies
+- 🧠 Java and react based projects
 - 💼 Resume & Experience Showcase
 - 📱 Fully Responsive Design
 - 🎨 Minimal yet Elegant UI
