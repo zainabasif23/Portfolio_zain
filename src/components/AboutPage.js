@@ -9,8 +9,8 @@ function AboutPage() {
   // Data for your skill cards
   const skills = [
     { icon: '</>👩🏻‍💻', title: 'Full-Stack Development' },
-    { icon: '📊🔎', title: 'Data Analysis' }, // Using emojis for icons for simplicity
-    { icon: '🤖🧠', title: 'Machine Learning' },
+    { icon: '📊🔎', title: 'Software Developer' }, // Using emojis for icons for simplicity
+    { icon: '🤖🧠', title: 'Java' },
     { icon: '🗂️🛠️', title: 'Project Management' },
   ];
 
@@ -23,12 +23,12 @@ function AboutPage() {
 
       {/* Main About Content Wrapper - centered on the page */}
       <div className="about-content-wrapper">
-        <h3 className="about-greeting">HI, THERE !!</h3>
-        <h1 className="about-name">I'm Vidhi Rawat</h1>
+        <h3 className="about-greeting">HELLO, THERE !!</h3>
+        <h1 className="about-name">I'm Zainab Asif</h1>
         <p className="about-description">
-          I'm Vidhi Rawat, a tech enthusiast with a passion for Full-Stack Development, Data Analysis, and
-          Machine Learning. I enjoy building clean, user-friendly web interfaces while leveraging data to drive
-          smart, impactful solutions. With a strong foundation in Python, JS, and ML tools, I blend creativity and
+          I'm , a tech enthusiast with a passion for Full-Stack Development, Software Developer, and
+          Java. I enjoy building clean, user-friendly web interfaces while leveraging data to drive
+          smart, impactful solutions. With a strong foundation in Python, JS, and JAVA, I blend creativity and
           logic to craft projects that are both visually engaging and data-driven. I'm a quick learner and
           collaborate closely with teams to build scalable, efficient, and user-friendly solutions
         </p>
