@@ -9,7 +9,7 @@ function SkillsPage() {
     {
       category: "Programming Languages",
       icon: "💻", // Using emojis as placeholders for icons
-      items: ["Python", "Java", "C", "C++", "R"]
+      items: ["Python", "Java", "C", "R"]
     },
     {
       category: "Frontend",
@@ -19,22 +19,22 @@ function SkillsPage() {
     {
       category: "Backend",
       icon: "⚙️",
-      items: ["Node.js", "Express", "REST APIs", "MongoDB", "Flask", "Authentication"]
+      items: ["Node.js", "Express", "REST APIs", "MongoDB"]
     },
     {
       category: "Database",
       icon: "🗄️",
-      items: ["MongoDB", "Firebase", "MySQL"]
+      items: ["MongoDB","MySQL"]
     },
     {
       category: "Tools",
       icon: "🔧",
-      items: ["Git", "GitHub", "Docker", "VS Code", "Postman", "npm/yarn", "MongoDB Compass", "Vercel"]
+      items: ["Git", "GitHub", "VS Code", "Postman", "npm/yarn", "MongoDB Compass"]
     },
         {
-      category: "Data Analysis",
+      category: "Software Developer",
       icon: "📶",
-      items: ["Excel", "Tableau", "Power BI", "ML Modeling", "Statistical Analysis", "EDA", "Data Prep", "Data Visualization", "Dashboarding"]
+      items: ["Java", "Object-oriented Programming", "HTML", "CSS", "JavaScript" , "Dashboarding"]
     },
     {
       category: "Website Operations",
