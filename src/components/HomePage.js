@@ -6,7 +6,7 @@ import TypingAnimation from './TypingAnimation'; // Import the new TypingAnimati
 import FallingStars from './FallingStars'; // NEW: Import FallingStars component
 
 function HomePage() {
-  const words = ["MERN Developer", "Data Science Aficionado", "ML Enthusiast"];
+  const words = ["MERN Developer", "Software developer"];
 
   return (
     <div className="homepage-main">
@@ -18,7 +18,7 @@ function HomePage() {
         <div className="left-section">
           {/* Logo remains */}
           <div className="homepage-logo">
-            <span className="logo-name">Vidhi</span> <span className="logo-separator">||</span> <span className="logo-portfolio">Portfolio</span>
+            <span className="logo-name">Zainab</span> <span className="logo-separator">||</span> <span className="logo-portfolio">Portfolio</span>
           </div>
           {/* New TypingAnimation component */}
           <TypingAnimation texts={words} />
